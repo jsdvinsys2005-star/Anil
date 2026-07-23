@@ -1,0 +1,6 @@
+x = str("33")
+y = str(22)
+z = str(30)
+print(x)
+print(y)
+print(z)
